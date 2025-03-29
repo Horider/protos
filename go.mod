@@ -1,4 +1,4 @@
-module protos
+module github.com/Horider/protos
 
 go 1.24
 
